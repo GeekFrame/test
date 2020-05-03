@@ -1,0 +1,13 @@
+/home/framegeek/geekTest/bin/Debug/netcoreapp3.1/geekTest
+/home/framegeek/geekTest/bin/Debug/netcoreapp3.1/geekTest.deps.json
+/home/framegeek/geekTest/bin/Debug/netcoreapp3.1/geekTest.runtimeconfig.json
+/home/framegeek/geekTest/bin/Debug/netcoreapp3.1/geekTest.runtimeconfig.dev.json
+/home/framegeek/geekTest/bin/Debug/netcoreapp3.1/geekTest.dll
+/home/framegeek/geekTest/bin/Debug/netcoreapp3.1/geekTest.pdb
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.csprojAssemblyReference.cache
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.csproj.CoreCompileInputs.cache
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.AssemblyInfoInputs.cache
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.AssemblyInfo.cs
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.dll
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.pdb
+/home/framegeek/geekTest/obj/Debug/netcoreapp3.1/geekTest.genruntimeconfig.cache
